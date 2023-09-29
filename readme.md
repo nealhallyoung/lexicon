@@ -11,3 +11,4 @@
 
 - [搜狗词库](https://pinyin.sogou.com/dict/)
 - [百度词库](https://shurufa.baidu.com/dict)
+- [清华大学开放词库](http://thuocl.thunlp.org/)
