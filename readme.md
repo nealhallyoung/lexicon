@@ -142,7 +142,7 @@
 - 网络热词.txt
 
 
-# 参考词库
+# 参考
 
 - [搜狗词库](https://pinyin.sogou.com/dict/)
 - [百度词库](https://shurufa.baidu.com/dict)
